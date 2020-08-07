@@ -1,0 +1,4 @@
+#Fri Aug 07 02:31:12 COT 2020
+base.0=C\:\\Users\\Administrador\\Documents\\MV\\APP FASE 2\\Respaldo Fase 1 JG\\Checklist_GYE\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
